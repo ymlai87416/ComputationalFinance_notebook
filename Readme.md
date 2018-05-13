@@ -12,19 +12,11 @@ The original implementation is done in R, and I translated R code files to Pytho
 
 ```
 Python notebook
-
-	- Lab 2 Random variables and probability distributions.ipynb
-
-	- Lab 3 Bivariate distributions.ipynb
-
-	- Lab 4 Simulating time series data.ipynb
-
-	- Lab 5 Analyzing stock returns.ipynb
-
-	- Lab 6 Constant expected return model.ipynb
-
-	- Lab 7 Introduction to portfolio theory.ipynb
-
-	- Lab 8 Computing efficient portfolios using matrix algebra.ipynb
-
+  - Lab 2 Random variables and probability distributions.ipynb
+  - Lab 3 Bivariate distributions.ipynb
+  - Lab 4 Simulating time series data.ipynb
+  - Lab 5 Analyzing stock returns.ipynb
+  - Lab 6 Constant expected return model.ipynb
+  - Lab 7 Introduction to portfolio theory.ipynb
+  - Lab 8 Computing efficient portfolios using matrix algebra.ipynb
 ```
