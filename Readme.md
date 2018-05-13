@@ -8,7 +8,7 @@ I upload the code for my future reference only. Please do not plagiarize my work
 
 This repository contains codes in 2 languages, one in R and one in Python.
 
-The original implementation is done in R, and I translated R code files to Python notebooks for my future reference. Python notebooks also present the content in meaningful way compare to R code.
+The original implementation is done in R, and I translated R code files to Python notebooks for my future reference. Python notebooks also present the content in a meaningful way compare to R code.
 
 ```
 Python notebook
